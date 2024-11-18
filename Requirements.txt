@@ -1,3 +1,4 @@
+// These are the necessary dependies that we need to install //
 easyocr==1.7.0
 opencv-python-headless==4.8.1.78
 numpy==1.26.0
